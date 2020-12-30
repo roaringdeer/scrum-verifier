@@ -1,0 +1,40 @@
+<p>There are three Scrum Arctifacts: Product Backlog, Sprint Backlog and Increment. Each one represents some work or value, and are
+created with transparency in mind, so that everyone in the Scrum Team understands them. All of these Artifacts also have a defined
+commitment, which describes their objectives.</p>
+<h4>Product Backlog</h4>
+<p>It is a list of what needs to be done in order to deliver or improve the product. It is created and overseen by the Scrum Team, where Product Owner
+specifies the Product Goal and the Development Team refines it.</p>
+<p>Product Backlog is constantly updating. That means its item are modified or new items are added, depending on situation. When adding
+or modifying items, Product Backlog refinement should take place. It is the activity of breaking down tasks into smaller, more managable
+and precise ones, and describing them accordingly in order to achieve transparency.</p>
+<p>Product Backlog items can be assigned a cost. It is a arbitrary value, representing how much work should be done in order to deem it done.</p>
+<p>At the beggining of each Sprint during Sprint planning, all tasks that are deemed to be doable in span of a single Sprint are removed,
+and put in Sprint Backlog.</p>
+<p>Product Backlog's commitment is Product Goal. It describes objective that should be achived after clearing Product Backlog.
+Only one Product Goal should be worked upon at any given time. A necessary thing to remeber is that Product Goals are market-driven.
+It means they should be set and changed according to market, that is usually to customers needs and requests.</p>
+<h4>Sprint Backlog</h4>
+<p>The Sprint Backlog is a list of all of Product Backlog's items, that could be done in span of a single Sprint. Sprint Backlog items
+should be detailed enough, so that each Scrum Team member knows what what needs to be achived to finish it.</p>
+<p>Similarly to Product Backlog, Sprint Backlog is constantly updated, as more is learned about the product. However, Sprint Backlog
+items are mainly monitored and maintained by the Development Team.</p>
+<p>Sprint progress can be measured using Spring Backlog items, as all should be completed in one Sprint. However, some tasks may take longer that
+others. Here items cost comes in play. During Sprint Planning, total cost of all selected items shouldn't exceed a certain set threshold. This ensures
+that all tasks can be achived during single Sprint. If the tasks cost is more then the threshold set, the Development Team should consider refining it.</p>
+<p>Commitment of Sprint Backlog is the Sprint Goal. It is a single objective, attainable during the span of a single Sprint. Sprint Goal is created
+during Sprint Planning, and helps to guide the Development Team towards the desired outcome. Although it shows what should
+be done, it also provides flexibility. Sometimes, things can go wrong or take unexpected turns. When that happens, the Development Team discuss
+with Product Owner scope of the Sprint Backlog without interfering with the Sprint Goal.</p>
+<h4>Increment</h4>
+<p>An Increment is the representation of some work done during single Sprint. Each Increment is added to all previous ones, and should provide value on its own as
+well as work together with other Incremets. With empirical approach, this also means that the Increment should be usable, as to show what was achived.</p>
+<p>All Incremets created during Sprint are presented at the Sprint Review. Incremets then can be delivered as a partial product to customers. They may be
+delivered also beforehand, as Sprint Review only shows progress made towards Product Goal during single Sprint.</p>
+<p>Increment cannot be considered an Increment, unless it meets the conditions stated in its commitment, Definition of Done.</p>
+
+<p>Definition of Done, commonly abbrevieted as 'DoD', is a description, what items state is considered done. When Product Backlog item
+meets its Definition of Done, it is considered then an Increment. When Sprint Backlog item's Definition of Done isn't met, it cannot
+be delivered or even presented at Sprint Review.</p>
+
+<p>Definition of Done should be clearly understandable to the whole Scrum Team, as it serves to ensure transparency. As a result, the Developers are required
+to follow them. This ensures that the whole Development Team has a clear understanding of each item and knows how to make it an Increment.</p>

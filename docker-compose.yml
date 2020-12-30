@@ -1,0 +1,76 @@
+version: '3.7'
+services:
+
+  server:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    volumes:
+      - ./backend/:/backend/
+      - /var/run/docker.sock:/var/run/docker.sock
+    command: uvicorn app.api.server:app --reload --workers 1 --host 0.0.0.0 --port 8000
+    env_file:
+      - ./backend/.env
+    expose:
+      - 8000
+    ports:
+      - 8000:8000
+    depends_on:
+      - db
+
+  db:
+    image: postgres:12.1-alpine
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    env_file:
+      - ./backend/.env
+    ports:
+      - 5432:5432
+
+  vue:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    volumes: 
+      - ./frontend:/frontend
+      - /frontend/node_modules
+    command: npm run serve
+    expose:
+      - 8080
+    ports:
+      - 8080:8080
+    stdin_open: true
+    tty: true
+    environment:
+      - HOST=0.0.0.0
+      - CHOKIDAR_USEPOLLING=true
+    # deploy:
+    #   labels:
+    #     - traefik.enable=true
+    #     - traefik.constraint-label-stack=traefik-constraint
+    #     - traefik.http.routers.vue-http.rule=PathPrefix('/')
+    #     - traefik.http.services.vue.loadbalancer.server.port=80
+  
+  # traefik:
+  #   image: "traefik:v2.3"
+  #   container_name: "traefik"
+  #   command:
+  #     #- "--log.level=DEBUG"
+  #     - "--api.insecure=true"
+  #     - "--providers.docker=true"
+  #     # - "--providers.docker.constraints=Label(`traefik.constraint-label-stack`, `traefik-constraint`)"
+  #     - "--providers.docker.exposedbydefault=false"
+  #     # - "--entrypoints.web.address=:80"
+  #   ports:
+  #     - "80:80"
+  #     - "8080:8080"
+  #   volumes:
+  #     - "/var/run/docker.sock:/var/run/docker.sock:ro"
+
+volumes:
+    postgres_data: 
+
+# networks:
+#   traefik-public:
+#     # false for testing?
+#     external: false

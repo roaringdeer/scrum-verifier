@@ -1,0 +1,11 @@
+<p>Scrum was created with focus on empirism. It employs a iterative, incremental aproach in order to boost predictability and lower risk probability. </p>
+<p>Scrum uses Scrum Events for inspection and adaptation. The Events work due to implementation of three Scrum Pillars: transparency, inspection and adaptation.</p>
+<h4>Transparency</h4>
+<p>Transparency in its core is the clear understanding of the target by the Scrum Team. As work is done, everyone must have a unified view of the process and Scrum Artifacts. Artifacts that have low transparency may lead to inconsistencies, increse risk and may even increase workload of the entire team. </p>
+<p>Without transparency, Inspection is meaningless.</p>
+<h4>Inspection</h4>
+<p>Inspecting means to check the state of Scrum Artifacts and progress done towards Product and Sprint Goals. It should be done frequently, as to remove any inconsistencies or solve any resulting problems.</p>
+<p>The Scrum Events were designed so that Inspection can be utilized.</p>
+<p>Without inspection, adaptation is pointless, as nothing can be adapted when the vision isn't clear.</p>
+<h4>Adaptation</h4>
+<p>Whenever any part of a process or product deviate from an expected range, necessary modifications need to take place. Adaptation should take place whenever anything new is learned about the process or the product during inspection.</p>

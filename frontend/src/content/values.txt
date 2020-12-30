@@ -1,0 +1,11 @@
+<p>Scrum defines five values, that help the Scrum Team on becoming more proficient in Scrum process.</p>
+<h4>Commitment</h4>
+<p>The Scrum Team is commited to achieving set goals and to support each other.</p>
+<h4>Focus</h4>
+<p>The Scrum Team is focused on their work to achieve the gain best possible progress towards set goals.</p>
+<h4>Openness</h4>
+<p>The Scrum Team and clients are open about the process and the product.</p>
+<h4>Respect</h4>
+<p>Scrum Team members are respectable towards each other.</p>
+<h4>Courage</h4>
+<p>Scrum Team members are courageous to do the right things during the Scrum process.</p>

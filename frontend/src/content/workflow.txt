@@ -1,0 +1,25 @@
+<p>Scrum employ an iterative approach to product development. Scrum workflow runs as follows:</p>
+<ol>
+<li>Product Backlog creation</li>
+During this meeting Product Goal is set and Product Backlog is created.
+<li>Sprint</li>
+This step is repeated until the product isn't finished.
+<ol>
+<li>Sprint Planning</li>
+Setting Sprint Goal and creating Sprint Backlog
+<li>Daily Scrum</li>
+Daily meetings to keep everyone in team updated.
+<li>Sprint Review</li>
+Show the client what you managed to produce during the sprint and get the customers feedback.
+<li>Sprint Retrospective</li>
+Give feedback to  your team and improve the way you work.
+</ol>
+<li>Product delivery</li>
+Finished product is released!
+</ol>
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

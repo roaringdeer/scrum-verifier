@@ -1,0 +1,28 @@
+<p>Scrum Events are opportunities to inspect and modify Scrum artifacts as needed. They are designed in order to ensure transparency. They also create regularity and minimize need for non-Srcum meetings, by maximizing information flow between the Scrum Team members</p>
+<h4>Sprint</h4>
+<p>Sprint is the main event of Scrum. It sets the timeframe for all tasks and activities to be completed in order to provide an Increment. They are of set length, usually a month, but depending on situation and needs, they can vary in length from one week to two months. New Sprint starts just as the previous one ended.</p>
+<p>During the Sprint no changes should be made that would make Sprint Goal obsolete. Quality of the product shouldn't decrese, as a resultant Increment should give a new functionality, not disrupting others. As more is learned about the product, Product and Sprint Backlogs should be refined as need comes. Scope of those can be renegotioated with Product Owner.</p>
+<p>Sprint can be cancelled only by Product Owner, and only when the Sprint Goal becomes obsolete.</p>
+<h4>Sprint Planning</h4>
+<p>The Sprint Planning event initiates a new Sprint, by defining what should be accomplished during the Sprint. It is important for the entire Scrum Team to be present and actively partake, as Sprint Goal is set during this event by the whole Scrum Team.</p>
+<p>During Sprint Planning three topics should be talked about: <b>'What is the Sprint Goal?'</b>, <b>'What can be accomplished during this Sprint?'</b> and <b>'How will the chosen tasks be accomplished?'</b></p>
+<h5>What is the Sprint Goal?</h5>
+<p>Before the end of the Sprint Planning, a transparent Sprint Goal should be created. The Product Owner proposes how products value can be increased, and the Scrum Team defines what the Sprint Goal should look like.</p>
+<h5>What can be accomplished during this Sprint?</h5>
+<p>The Developers discuss with the Product Owner, which Product Backlog items to select for the new Sprint. These items may be refined.</p>
+<p>Selecting Product Backlog items is a difficult task. It boils down to the Developers past experiences and their confidence and proper estimation of their skill. The more the Development Team is experienced, the better they are at estimating.</p>
+<p>One way of selecting Product Backlog items is by using a arbitraty estimate, which is to use assigned costs to items, based on their Definition of Done, estimated time-consumption and complexity. This can be done, for example, by playing Scrum Poker</p>
+<h5>How will the chosen tasks be accomplished?</h5>
+<p>The Developers plan work that needs to be done in order to accomplish the Definition of Done of chosen Product Backlog items. This step is done solely by the Developers, as part of their self-management.</p>
+<h4>Daily Scrum (Stand Up)</h4>
+<p>Daily Scrum are daily meetings, that enforce regularity, help to achieve transparency, track progress towards Sprint Goal and allow inspection and adaptation of Sprint Backlog.</p>
+<p>These meetings, also known as Stand-Ups, should take around 15 minutes. The Developers define how this event is held, as long as the meeting focuses on achieving the Sprint Goal and planning the days work.</p>
+<p>Daily Scrum improve communication, identify any impedimens and are occasion for updates of one's work as part of transparency.</p>
+<h4>Sprint Review</h4>
+<p>Sprint Review is the only time, when the client is directly involved. At this meeting, the Scrum Team presents the Sprint Increments. Client and Scrum Team members review what was accomplished during the sprint, what was changed and what should happen next.</p>
+<p>Important part of Sprint Review is the feedback, that is given by the client. Any requests and possible changes are discussed and may be incorporated into the Product Backlog.</p>
+<p>With a one-month-long Sprint, this meeting shouldn't take longer than 4 hours.</p>
+<h4>Sprint Retrospective</h4>
+<p>In order to increase effectiveness of the Scrum Team, Sprint Retrospectives are organized. They serve as a platform to express their stance towards any interactions and processes that took place.</p>
+<p>Discussed topics are revolving around increasing effectiveness and morale of the team, thus improving the products quality. Any impediments are presented, and ways of dealing with them are discussed. Improvements to the Scrum Team's workflow may also be proposed, discussed and incorporated.</p>
+<p>This is the last scheduled meeting of a Sprint. For a one-month-long Sprint, it shouldn't take longer than 3 hours.</p>

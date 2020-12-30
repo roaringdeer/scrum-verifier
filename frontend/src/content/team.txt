@@ -1,0 +1,32 @@
+<h4></h4>
+
+<p>In Scrum, all work is done by the Scrum Team. It consists of one Product Owner, one Scrum Master and the Developers, also collectively called 'Development Team'.
+There are no other roles, sub-teams or hierarchies. The Scrum Team is a closlely cooperating body of people, that all work towards the Product Goal.</p>
+<p>One of the Scrum Team requirements is its cross-functionality. All members should have skills necessary to create Incremets.</p>
+<p>Another requirement is the Scrum Teams self-management. Each Scrum Team member and the Scrum Team as a whole should manage its time itself, as no superiority hierarchy is defined.</p>
+<p>Product Owner and Scrum Master can serve more then one Scrum Team, but should always be accessible when needed.</p>
+<p>The Scrum Team should be big enough as to be able to finish significant amount of work each Sprint, yet small enough as to not lose its elasticity and nimbleness. The smallest 
+Scrum Team possible consists of three people: one Product Owner, one Scrum Master and one Developer. The maximum amount of Scrum Team members shouldn't exceed 10. If that is a case, then
+breaking a single team into multiple ones, focused on the same product should be considered.</p>
+<p>In its self-managing, the Scrum Team is also responsible for all that is product-related. From working with customers, product development, experimentation and product maintanace, to anything required to deliver the product.</p>
+<h4>Developers (Development Team)</h4>
+<p>Developers are the people that create Incremets.</p>
+<p>They are responsible for creating and maintaining Sprint Backlog and following the Definition of Done and creating Incremets</p>
+<p></p>
+<h4>Product Owner</h4>
+<p>They are responsible for Product Backlog management, which includes creating Product Goal, creating and ordering Product Backlog items and should ensure Product Backlog transparency.</p>
+<p>They may represent clients and are the middleman for communication between them and the Developers. He protects the Developers from clients unnecessary involvment and micromanagement, allowing them to be a self-managing.</p>
+<p>Product Owner can change Product Backlog. If any change is needed, he needs to be convinced that the change is necessary.</p>
+<h4>Scrum Master</h4>
+<p>Scrum Master is the person who ensures, that Scrum and Agile practices are followed by the Scrum Team. He is a Serving Leader, guiding the entire Scrum Team towards understanding Scrum's theorical and practical side.</p>
+<p>He is responsible for the Scrum Team's effectiveness. This responsibility makes incentive for Scrum Master to make efforts to help the Scrum Team boost effectiveness in scope of Scrum and Agile practicies.</p>
+<p>
+Scrum Master serves the Scrum Team in many ways:
+<ul>
+<li>coaches team in self-management and cross-functionality</li>
+<li>helps the Scrum Team focus on creating valuable Increments that meet the Definition of Done</li>
+<li>helps the Scrum Team in understanding the need for transparency</li>
+<li>removes any impediments standing before the Scrum Team</li>
+<li>keeps track of time, and ensures productivity during Scrum Events</li>
+<li>removes barriers between clients and the Scrum Team</li>
+</ul>
